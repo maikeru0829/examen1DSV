@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\Parcial1parte2\\Parcial1parte2.csproj",
+      "projectUniqueName": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\Parcial1parte2\\Parcial1parte2.csproj",
       "projectName": "Parcial1parte2",
-      "projectPath": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\Parcial1parte2\\Parcial1parte2.csproj",
+      "projectPath": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\Parcial1parte2\\Parcial1parte2.csproj",
       "packagesPath": "C:\\Users\\MAIKI.dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\Parcial1parte2\\obj\\",
+      "outputPath": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\Parcial1parte2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

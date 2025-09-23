@@ -6,6 +6,8 @@ namespace Parcial1parte2
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.White; 
             Drone drone = new Drone();
             string continuar;
             Console.WriteLine("-------------------------------------");

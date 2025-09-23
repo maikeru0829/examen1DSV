@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\",
+  "WorkspaceRootPath": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1922C02C-1466-45AC-B6DF-C21801CC712C}|Parcial1parte2\\Parcial1parte2.csproj|c:\\users\\maiki.dev\\source\\repos\\parcial1parte2\\parcial1parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1922C02C-1466-45AC-B6DF-C21801CC712C}|Parcial1parte2\\Parcial1parte2.csproj|c:\\users\\maiki.dev\\desktop\\grupo 2\\examen1dsv\\parcial1parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1922C02C-1466-45AC-B6DF-C21801CC712C}|Parcial1parte2\\Parcial1parte2.csproj|solutionrelative:parcial1parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1922C02C-1466-45AC-B6DF-C21801CC712C}|Parcial1parte2\\Parcial1parte2.csproj|c:\\users\\maiki.dev\\source\\repos\\parcial1parte2\\parcial1parte2\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1922C02C-1466-45AC-B6DF-C21801CC712C}|Parcial1parte2\\Parcial1parte2.csproj|c:\\users\\maiki.dev\\desktop\\grupo 2\\examen1dsv\\parcial1parte2\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1922C02C-1466-45AC-B6DF-C21801CC712C}|Parcial1parte2\\Parcial1parte2.csproj|solutionrelative:parcial1parte2\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Drone.cs",
-              "DocumentMoniker": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\Parcial1parte2\\Drone.cs",
+              "DocumentMoniker": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\Parcial1parte2\\Drone.cs",
               "RelativeDocumentMoniker": "Parcial1parte2\\Drone.cs",
-              "ToolTip": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\Parcial1parte2\\Drone.cs",
+              "ToolTip": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\Parcial1parte2\\Drone.cs",
               "RelativeToolTip": "Parcial1parte2\\Drone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T02:19:37.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T02:19:37.51Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\Parcial1parte2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\Parcial1parte2\\Program.cs",
               "RelativeDocumentMoniker": "Parcial1parte2\\Program.cs",
-              "ToolTip": "C:\\Users\\MAIKI.dev\\source\\repos\\Parcial1parte2\\Parcial1parte2\\Program.cs",
+              "ToolTip": "C:\\Users\\MAIKI.dev\\Desktop\\grupo 2\\examen1DSV\\Parcial1parte2\\Program.cs",
               "RelativeToolTip": "Parcial1parte2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T02:14:53.666Z",
               "EditorCaption": ""

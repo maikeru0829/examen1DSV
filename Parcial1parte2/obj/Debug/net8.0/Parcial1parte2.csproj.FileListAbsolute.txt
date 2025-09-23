@@ -12,3 +12,18 @@ C:\Users\MAIKI.dev\source\repos\Parcial1parte2\Parcial1parte2\obj\Debug\net8.0\r
 C:\Users\MAIKI.dev\source\repos\Parcial1parte2\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.pdb
 C:\Users\MAIKI.dev\source\repos\Parcial1parte2\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.genruntimeconfig.cache
 C:\Users\MAIKI.dev\source\repos\Parcial1parte2\Parcial1parte2\obj\Debug\net8.0\ref\Parcial1parte2.dll
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\bin\Debug\net8.0\Parcial1parte2.exe
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\bin\Debug\net8.0\Parcial1parte2.deps.json
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\bin\Debug\net8.0\Parcial1parte2.runtimeconfig.json
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\bin\Debug\net8.0\Parcial1parte2.dll
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\bin\Debug\net8.0\Parcial1parte2.pdb
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.AssemblyInfoInputs.cache
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.AssemblyInfo.cs
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.csproj.CoreCompileInputs.cache
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.sourcelink.json
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.dll
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\refint\Parcial1parte2.dll
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.pdb
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\Parcial1parte2.genruntimeconfig.cache
+C:\Users\MAIKI.dev\Desktop\grupo 2\examen1DSV\Parcial1parte2\obj\Debug\net8.0\ref\Parcial1parte2.dll
